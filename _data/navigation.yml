@@ -1,7 +1,11 @@
 # main links
 main:
-   - title: "Contact"
-     url: /contact/
+  - title: "Posts"
+    url: /archives/
+  - title: "Resources"
+    url: /mytools/    
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
