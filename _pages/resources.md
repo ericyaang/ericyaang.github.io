@@ -20,4 +20,5 @@ The libraries are organized below by phases of a typical Machine Learning projec
 
 |Category|Tool|Remarks|
 |---|---|---|
-|Explain| [diagrams](diagrams.net)| Diagrams|
+|Explain| [diagrams](https://diagrams.net), [excalidraw](https://excalidraw.com/), [tldraw](https://www.tldraw.com)| Diagrams|
+|Explain| [diagrams](https://github.com/google/latexify_py)| Gnerates LaTeX math description from Python functions.|
